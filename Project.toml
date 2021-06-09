@@ -1,0 +1,4 @@
+[deps]
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+UnitfulTest = "5524b85c-a7ed-4dbb-b0db-ddcf5e0cd951"
